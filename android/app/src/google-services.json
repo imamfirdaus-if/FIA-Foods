@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786185997166",
+    "project_id": "fiafood",
+    "storage_bucket": "fiafood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786185997166:android:66809af0e2f974007a0f7f",
+        "android_client_info": {
+          "package_name": "com.iftech.fiafood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786185997166-7aevmgbqlj4suo00pgqbr8rs65jjs9am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl5ykSlU7UMC6X7sbl6g-IAfIKKBcMQsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786185997166-7aevmgbqlj4suo00pgqbr8rs65jjs9am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
